@@ -41,7 +41,7 @@ Hey there! I'm a **Developer** who loves building **scalable web applications** 
 - 🏎️ I’m a **car enthusiast** – I appreciate almost every model out there!  
 - 🏍️ I'm also a **bike lover** – nothing beats the thrill of a two-wheel ride!  
 - 🌶️ I have an **obsession with spicy food** – the spicier, the better!  
-- 🎶 I really **enjoy listening** - ** Sri Lankan classic music** 🎵  
+- 🎶 I really **enjoy listening** - **Sri Lankan classic music** 🎵  
 - 📖 Always learning – I embrace a growth mindset with a passion for leveling up!  
 
 ---
