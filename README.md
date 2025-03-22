@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Maduranga Wimalarathne! 👋
 
-<!--
-**MadurangaNamal/MadurangaNamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Full Stack Developer**  
+🇱🇰 Sri Lankan | [LinkedIn](https://linkedin.com/in/maduranga-wimalarathne) | [GitHub](https://github.com/MadurangaNamal)  
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+Passionate software engineer with expertise in **C# and Java** web development. Skilled in **API design, full-stack development, and DevOps**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** C#, Java, JavaScript, Python  
+- **Frameworks:** ASP.NET Core, Blazor, Spring Boot  
+- **Databases:** MS SQL Server, MySQL, MongoDB  
+- **Tools:** Git, Docker, Azure DevOps, Jira  
+
+## 📌 Let's Connect!  
+💬 Open to collaborations and tech discussions. Reach out on **LinkedIn**!
