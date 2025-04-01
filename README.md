@@ -3,7 +3,10 @@
 **🚀 Software Engineer | Full Stack Developer | Tech Enthusiast**  
 **🌶️ Spicy Food Lover | 🏍️ Car & Bike Enthusiast | 🎶 Sri Lankan Music Fan**  
 
-🇱🇰 Proudly Sri Lankan | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=flat&logo=linkedin)](https://linkedin.com/in/maduranga-wimalarathne) | [![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Code-black?style=flat&logo=github)](https://github.com/MadurangaNamal)  
+[![Sri Lankan](https://img.shields.io/badge/%F0%9F%87%B1%F0%9F%87%B0-Sri%20Lankan%20Proudly-gold?style=flat&logo=google-earth)](https://en.wikipedia.org/wiki/Sri_Lanka)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=flat&logo=linkedin)](https://linkedin.com/in/maduranga-wimalarathne)  [![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Code-black?style=flat&logo=github)](https://github.com/MadurangaNamal)  [![Bitbucket](https://img.shields.io/badge/Bitbucket-Explore%20My%20Projects-blue?style=flat&logo=bitbucket)](https://bitbucket.org/maduranga_namal/)  
+
 
 ---
 
