@@ -1,9 +1,9 @@
-#  👋 Hey, I'm Maduranga Wimalarathne! <img src="https://em-content.zobj.net/thumbs/120/twitter/348/flag-sri-lanka_1f1f1-1f1f0.png" width="30px">
+#   Hey, I'm Maduranga 🙋‍♂️
 
-**🚀 Software Engineer | Full Stack Developer | Tech Enthusiast**  
-**🌶️ Spicy Food Lover | 🏍️ Car & Bike Enthusiast | 🎶 Sri Lankan Music Fan**  
+**Software Engineer | Full-stack Developer | Techy 👨‍💻⚡**  
+**Spicy Food 🌶️🥵 | 🚗🏍️ Gearhead | Music Fan** 🎶  
 
-[![Sri Lankan](https://img.shields.io/badge/%F0%9F%87%B1%F0%9F%87%B0-Sri%20Lankan%20Proudly-gold?style=flat&logo=google-earth)](https://en.wikipedia.org/wiki/Sri_Lanka)  
+<img src="https://em-content.zobj.net/thumbs/120/twitter/348/flag-sri-lanka_1f1f1-1f1f0.png" width="30px"> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=flat&logo=linkedin)](https://linkedin.com/in/maduranga-wimalarathne)  [![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Code-black?style=flat&logo=github)](https://github.com/MadurangaNamal)  [![Bitbucket](https://img.shields.io/badge/Bitbucket-Explore%20My%20Projects-blue?style=flat&logo=bitbucket)](https://bitbucket.org/maduranga_namal/)  
 
@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 **About Me**
-Hey there! I'm a **Developer** who loves building **scalable web applications** and solving complex problems with **C# and Java**. When I'm not coding, you might find me enjoying some spicy **kottu**, exploring the latest in **tech trends**, or geeking out over **cars and bikes**! 🚗🔥
+Hey there! I'm a **Developer** who loves building **Web Applications** and solving complex problems with **C#** || **Java**. When I'm not coding, you might find me enjoying some spicy dish, exploring the latest **Tech Feed**, or geeking out over **Cars** and **Bikes** 🏍️🚀
 
 ---
 
@@ -43,18 +43,16 @@ Hey there! I'm a **Developer** who loves building **scalable web applications** 
 
 ### 🎯 **Fun Facts About Me**
 - 🏎️ I’m a **car enthusiast** – I appreciate almost every model out there!  
-- 🏍️ I'm also a **bike lover** – nothing beats the thrill of a two-wheel ride!  
 - 🌶️ I have an **obsession with spicy food** – the spicier, the better!  
-- 🎶 I really **enjoy listening** - **Sri Lankan classic music** 🎵  
-- 📖 Always learning – I embrace a growth mindset with a passion for leveling up!  
-
+- 🎶 I **enjoy listening** - Sri Lankan classic music 🎵  
+- 📖 **Learning** is my passion – I embrace a growth mindset with a passion for leveling up!  
+- 🏍️ I'm also a **bike lover** – nothing beats the thrill of a two-wheel ride!  
 ---
 
 ### 🏍 **Life in the Fast Lane**
 ```csharp
 public class Life {
     public string[] Hobbies = {
-        "Tuning engines 🛠️",
         "Exploring scenic routes 🏞️",
         "Refactoring code 💻",
         "Spicy food challenges 🌶️"
