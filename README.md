@@ -1,7 +1,7 @@
 #   Hey, I'm Maduranga 🙋‍♂️
 
-**Software Engineer | Full-stack Developer | Techy 👨‍💻⚡**  
-**Spicy Food 🌶️🥵 | 🚗🏍️ Gearhead | Music Fan** 🎶  
+**Software Engineer | Full-stack Developer | 👨‍💻⚡Techy**  
+**Traveller 🌍✈️| Gearhead | Music Fan** 🎼  
 
 <img src="https://em-content.zobj.net/thumbs/120/twitter/348/flag-sri-lanka_1f1f1-1f1f0.png" width="30px"> 
 
@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 **About Me**
-Hey there! I'm a **Developer** who loves building **Web Applications** and solving complex problems with **C#** || **Java**. When I'm not coding, you might find me enjoying some spicy dish, exploring the latest **Tech Feed**, or geeking out over **Cars** and **Bikes** 🏍️🚀
+Hey there! I'm a **Developer** who loves building **Web** Applications and solving complex problems with **C#** || **Java**. When I'm not coding, you might find me enjoying some spicy dish, exploring the latest **Tech Feed**, or geeking out over **Cars** and **Bikes** 🏍️🚀
 
 ---
 
@@ -28,25 +28,28 @@ Hey there! I'm a **Developer** who loves building **Web Applications** and solvi
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
 
 #### 💾 **Databases:**
-![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 #### 🔧 **Tools:**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0089D6?logo=azure-devops&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 
 ---
 
 ### 🎯 **Fun Facts About Me**
-- 🏎️ I’m a **car enthusiast** – I appreciate almost every model out there!  
+- 🚗 I’m a **car enthusiast** – I appreciate almost every model out there  
 - 🌶️ I have an **obsession with spicy food** – the spicier, the better!  
-- 🎶 I **enjoy listening** - Sri Lankan classic music 🎵  
-- 📖 **Learning** is my passion – I embrace a growth mindset with a passion for leveling up!  
-- 🏍️ I'm also a **bike lover** – nothing beats the thrill of a two-wheel ride!  
+- 🎶 I get lost in **rhythms** – from soft tunes to wild beats 🎵
+- 📖 **Learning** is my passion – I embrace a growth mindset with a passion for leveling up  
+- 🏍️💨 I'm also a **Bike lover** – nothing beats the thrill of a two-wheel ride!  
 ---
 
 ### 🏍 **Life in the Fast Lane**
@@ -54,7 +57,7 @@ Hey there! I'm a **Developer** who loves building **Web Applications** and solvi
 public class Life {
     public string[] Hobbies = {
         "Exploring scenic routes 🏞️",
-        "Refactoring code 💻",
-        "Spicy food challenges 🌶️"
+        "Refactoring code 🛠️💻",
+        "📚💡 Reading Articles"
     };
 }
