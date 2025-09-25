@@ -23,7 +23,8 @@ Hey there! I'm a **Developer** who loves building **Web** Applications and solvi
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 #### 🚀 **Frameworks:**
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
 
@@ -56,8 +57,8 @@ Hey there! I'm a **Developer** who loves building **Web** Applications and solvi
 ```csharp
 public class Life {
     public string[] Hobbies = {
-        "Exploring scenic routes 🏞️",
+        "🏞️ Exploring scenic routes",
         "Refactoring code 🛠️💻",
-        "📚💡 Reading Articles"
+        "📚 Reading Articles, Tutorials, Blogs & Codes 💡"
     };
 }
