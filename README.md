@@ -1,12 +1,11 @@
 #   Hey, I'm Maduranga 🙋‍♂️
 
 **Software Engineer | Full-stack Developer | 👨‍💻⚡Techy**  
-**Traveller 🌍✈️| Gearhead | Music Fan** 🎼  
+**_Traveler_ 🌍✈️| _GearHead_ | _Music Fan_** 🎼  
 
 <img src="https://em-content.zobj.net/thumbs/120/twitter/348/flag-sri-lanka_1f1f1-1f1f0.png" width="30px"> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=flat&logo=linkedin)](https://linkedin.com/in/maduranga-wimalarathne)  [![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Code-black?style=flat&logo=github)](https://github.com/MadurangaNamal)  [![Bitbucket](https://img.shields.io/badge/Bitbucket-Explore%20My%20Projects-blue?style=flat&logo=bitbucket)](https://bitbucket.org/maduranga_namal/)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/maduranga-wimalarathne) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/MadurangaNamal) [![Bitbucket](https://img.shields.io/badge/Bitbucket-Explore-blue?style=flat&logo=bitbucket)](https://bitbucket.org/maduranga_namal/)
 
 ---
 
