@@ -1,7 +1,7 @@
 #   Hey, I'm Maduranga 🙋‍♂️
 
 **Software Engineer | Full-stack Developer | 👨‍💻⚡Techy**  
-**_Traveler_ 🌍✈️| _GearHead_ | _Music Fan_** 🎼  
+**_Traveler_ 🌍✈️ _GearHead_ 'n _Music Fan_** 🎼  
 
 <img src="https://em-content.zobj.net/thumbs/120/twitter/348/flag-sri-lanka_1f1f1-1f1f0.png" width="30px"> 
 
@@ -10,16 +10,16 @@
 ---
 
 ### 👨‍💻 **About Me**
-Hey there! I'm a **Developer** who loves building **Web** Applications and solving complex problems with **C#** || **Java**. When I'm not coding, you might find me enjoying some spicy dish, exploring the latest **Tech Feed**, or geeking out over **Cars** and **Bikes** 🏍️🚀
+ I'm a Developer who loves building **Web Applications** and solving problems. When I'm not coding, you might find me enjoying some spicy dish, exploring the latest **Tech Feed**, or geeking out over Cars and Bikes 🏍️🚀
 
 ---
 
 ### 🔧 **Tech Stack**
 #### 🛠️ **Languages:**
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&logoWidth=20)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=20)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=20)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&logoWidth=20)
 
 #### 🚀 **Frameworks:**
 ![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-512BD4?logo=dotnet&logoColor=white)
