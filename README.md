@@ -57,8 +57,13 @@
 ```csharp
 public class Life {
     public string[] Hobbies = {
-        "🏞️ Exploring scenic routes",
-        "Refactoring code 🛠️💻",
-        "📚 Reading Articles, Tutorials, Blogs & Codes 💡"
+        "Watching movies & TV series",
+        "Refactoring code 🛠️",
+        "Exploring scenic routes",
+        "Reading Articles, Tutorials, Blogs & Codes 💡"
     };
 }
+```
+<div style="margin-left:15rem">
+    <img src="./assets/qrcode_portfolio.png" alt="Profile QR Code" width="120"/>
+</div>
