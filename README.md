@@ -12,7 +12,7 @@
   <a href="https://bitbucket.org/maduranga_namal/"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=22&duration=3000&pause=1000&color=82Aaff&center=true&vCenter=true&width=600&lines=Full-stack+with+C%23+%26+.NET;APIs%2C+React%2C+and+cloud-native+patterns;Always+learning%2C+always+shipping" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=20&duration=3000&pause=1000&color=82AAFF&center=true&vCenter=true&width=600&lines=From+architecture+to+deployment;Turning+complexity+into+clean+solutions" alt="Typing SVG"/>
 
 </div>
 
@@ -84,10 +84,6 @@ public sealed class OutsideOffice
 ```
 
 <div align="center">
-
-<strong>Portfolio QR</strong><br/><br/>
 <img src="./assets/qrcode_portfolio.png" alt="Scan to open portfolio" width="128"/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0828FA,50:34495e,100:2c3e50&height=90&section=footer"/>
-
 </div>
