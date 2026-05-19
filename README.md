@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waved&color=0:2c3e50,50:34495e,100:0828fa&height=140&section=header&text=Maduranga%20Wimalarathne&fontSize=36&fontColor=ecf0f1&animation=twinkling&fontAlignY=36"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,50:34495e,100:0828FA&height=140&section=header&text=Maduranga%20Wimalarathne&fontSize=36&fontColor=ecf0f1&animation=twinkling&fontAlignY=36"/>
 
 <h3>Software Engineer · Full-Stack Developer</h3>
 
@@ -58,23 +58,6 @@ Outside of code, I follow **tech and engineering reads**, enjoy **great food** (
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0089D6?style=flat-square&logo=azure-devops&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-
-## GitHub activity
-
-<div align="center">
-
-<a href="https://github.com/MadurangaNamal">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MadurangaNamal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-</a>
-<a href="https://github.com/MadurangaNamal">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadurangaNamal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</a>
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=MadurangaNamal&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-</div>
-
-
 ## Beyond the Keyboard
 
 | | |
@@ -105,6 +88,6 @@ public sealed class OutsideOffice
 <strong>Portfolio QR</strong><br/><br/>
 <img src="./assets/qrcode_portfolio.png" alt="Scan to open portfolio" width="128"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waved&color=0:0828fa,50:34495e,100:2c3e50&height=90&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0828FA,50:34495e,100:2c3e50&height=90&section=footer"/>
 
 </div>
